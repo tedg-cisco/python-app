@@ -1,4 +1,6 @@
 # Setup two Container using Custom bridge network
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftedg-cisco%2Fpython-app.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftedg-cisco%2Fpython-app?ref=badge_shield)
+
 
 ## 1. Create Custom Bridge Network
 
@@ -29,3 +31,7 @@ Python is the application developed by me, so this image comes from my docker hu
 
 Open browser and put the following url
 http://<ip-address>:8080
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftedg-cisco%2Fpython-app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftedg-cisco%2Fpython-app?ref=badge_large)
